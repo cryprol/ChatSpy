@@ -1,3 +1,5 @@
+--credits to x for makin this simple ass script
+
 -- This script reveals ALL hidden/whispered messages in the default chat
 -- /spy = Toggle ChatSpy
 enabled = true
