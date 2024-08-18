@@ -4,7 +4,7 @@
 -- /spy = Toggle ChatSpy
 enabled = true
 -- True = Own Message Check
-spyOnMyself = true
+spyOnMyself = false
 -- True = Chat Logs Publicly (fun, risky)
 public = false
 -- True = Will use /me make Important
